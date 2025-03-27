@@ -1,0 +1,1 @@
+As the project grew, so did the need for experimentation. Alex learned about branches—a perfect way to test new ideas without disturbing the stable main branch. With a quick command, they created a new branch:
