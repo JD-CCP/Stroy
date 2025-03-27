@@ -1,0 +1,1 @@
+Alex was a budding developer eager to learn the secrets of version control. One crisp morning, they decided to take the plunge into Git and GitHub. With a simple terminal window open, Alex ran:git init my-first-project
